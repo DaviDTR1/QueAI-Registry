@@ -7,7 +7,7 @@
       "description": "A simple downloadable module for testing",
       "version": "1.0.0",
       "author": "QueAI Team Official",
-      "git_url": "https://github.com/QueAI/plugin-1.git",
+      "git_url": "https://github.com/queai-project/QueAI-Module-downloadable_module.git",
       "logo_url": "https://raw.githubusercontent.com/QueAI/plugin-echo-bot/main/assets/logo.png",
       "category": "Testing"
     }
