@@ -1,4 +1,4 @@
-# 🐙 QueAI-Registry
+# 🐙 QueAI-Registry-Marketplace
 QueAI module registration
 
 Official repository for [queai.dev](https://queai.dev), the registry of QueAI modules.
@@ -7,12 +7,9 @@ Official repository for [queai.dev](https://queai.dev), the registry of QueAI mo
   <img src="queai_marketplace_logo.png" alt="Que AI MarketPlace Logo" width="200">
 </p>
 
-## ✨ Project Vision
-**QueAI** is built to decentralize Artificial Intelligence. We provide a seamless way to run powerful models (LLMs, OCR, STT) on your own local hardware, ensuring **100% data privacy** without cloud dependencies or API fees.
+**QueAI Registry Marketplace** is a repository .... be continue
 
-This landing page introduces **Kyubit**, our friendly octopus mascot and the heart of our orchestration logic.
-
-## Get Involved
+## Show us yours plugins.
 Help us grow the QueAI ecosystem:
 1. Star ⭐ this repository to boost our visibility.
 2. Check the [Issues](https://github.com/queai-project/QueAI-Registry/issues) for pending web improvements.
