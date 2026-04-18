@@ -1,4 +1,4 @@
-{ 
+{
   "last_updated": "2026-03-06",
   "plugins": [
     {
@@ -10,6 +10,34 @@
       "git_url": "https://github.com/queai-project/QueAI-Module-downloadable_module.git",
       "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-Module-downloadable_module/main/assets/logo2.png",
       "category": "Testing"
+    },
+    {
+      "name": "tts_local_cpu",
+      "display_name": "TTS Local CPU",
+      "ui_entry_point": "/api/tts_local_cpu/ui",
+      "configuration_entry_point": "/api/tts_local_cpu/config/",
+      "documentation_entry_point": "/api/tts_local_cpu/docs",
+      "healthcheck_entry_point": "/api/tts_local_cpu/health",
+      "version": "5.0.0",
+      "logo": "stt_logo.png",
+      "description": "Módulo TTS oficial para QueAI. Texto a voz de alta fidelidad basado en Piper. Ejecución local en CPU, soporte para Inglés/Español y múltiples voces.",
+      "author": "Juana Iris Perez && Alejandro Fonseca",
+      "license": "MIT",
+      "git_url": "https://github.com/queai-project/QueAI-TTS-CPU-LOCAL-MS.git"
+    },
+    {
+      "name": "ocr_local_cpu",
+      "display_name": "OCR Local CPU",
+      "ui_entry_point": "/api/ocr_local_cpu/ui",
+      "configuration_entry_point": "/api/ocr_local_cpu/config/",
+      "documentation_entry_point": "/api/ocr_local_cpu/docs",
+      "healthcheck_entry_point": "/api/ocr_local_cpu/health",
+      "version": "1.1.4",
+      "logo": "ocr_logo.png",
+      "description": "Módulo OCR oficial para QueAI. Imagen a texto de alta fidelidad basado en Tesseract. Ejecución local en CPU.",
+      "author": "Juana Iris Perez && Alejandro Fonseca",
+      "license": "MIT",
+      "git_url": "https://github.com/queai-project/QueAI-OCR-CPU-LOCAL-MS.git"
     }
   ]
 }
