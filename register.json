@@ -25,7 +25,7 @@
       "id": "f91b3c6e-2a44-4d8b-8f0c-6a2d9e5b7c31",
       "name": "OCR Local CPU",
       "description": "Módulo OCR oficial para QueAI. Imagen a texto de alta fidelidad basado en Tesseract. Ejecución local en CPU.",
-      "version": "1.1.5",
+      "version": "1.1.4",
       "author": "Juana Iris Perez && Alejandro Fonseca",
       "git_url": "https://github.com/queai-project/QueAI-OCR-CPU-LOCAL-MS.git",
       "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-OCR-CPU-LOCAL-MS/main/assets/ocr_logo.png",
