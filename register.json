@@ -18,8 +18,18 @@
       "version": "5.0.0",
       "author": "Juana Iris Perez && Alejandro Fonseca",
       "git_url": "https://github.com/queai-project/QueAI-TTS-CPU-LOCAL-MS.git",
-      "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-TTS-CPU-LOCAL-MS/main/assets/stt_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-TTS-CPU-LOCAL-MS/main/assets/tts_logo.png",
       "category": "Audio"
+    },
+    {
+      "id": "c2f4a8b1-7d5e-4771-9c3f-1e8b6d7f2a10",
+      "name": "STT Local CPU",
+      "description": "Módulo STT oficial para QueAI",
+      "version": "1.0.0",
+      "author": "Juana Iris Perez && Alejandro Fonseca",
+      "git_url": "https://github.com/queai-project/QueAI-STT-CPU-LOCAL-MS.git",
+      "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-STT-CPU-LOCAL-MS/main/assets/stt_logo.png",
+      "category": "Text"
     },
     {
       "id": "f91b3c6e-2a44-4d8b-8f0c-6a2d9e5b7c31",
