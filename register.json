@@ -15,7 +15,7 @@
       "id": "c2f4a8b1-7d5e-4a91-9c3f-1e8b6d7f2a10",
       "name": "TTS Local CPU",
       "description": "Módulo TTS oficial para QueAI. Texto a voz de alta fidelidad basado en Piper. Ejecución local en CPU, soporte para Inglés/Español y múltiples voces.",
-      "version": "5.0.0",
+      "version": "5.0.1",
       "author": "Juana Iris Perez && Alejandro Fonseca",
       "git_url": "https://github.com/queai-project/QueAI-TTS-CPU-LOCAL-MS.git",
       "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-TTS-CPU-LOCAL-MS/main/assets/tts_logo.png",
