@@ -1,10 +1,12 @@
 {
-  "last_updated": "2026-03-06",
+  "last_updated": "2026-06-04",
+  "schema_version": 2,
   "plugins": [
     {
       "id": "c2f4a8b1-7d5e-4a91-9c3f-1e8b6d7f2a10",
       "name": "TTS Local CPU",
       "description": "Módulo TTS oficial para QueAI. Texto a voz de alta fidelidad basado en Piper. Ejecución local en CPU, soporte para Inglés/Español y múltiples voces.",
+      "description_en": "Official TTS module for QueAI. High-fidelity text-to-speech powered by Piper. Runs locally on CPU, English/Spanish support and multiple voices.",
       "version": "1.0.1",
       "author": "Juana Iris Perez && Alejandro Fonseca Cuza",
       "git_url": "https://github.com/queai-project/QueAI-TTS-CPU-LOCAL-MS.git",
@@ -15,6 +17,7 @@
       "id": "c2f4a8b1-7d5e-4771-9c3f-1e8b6d7f2a10",
       "name": "STT Local CPU",
       "description": "Módulo STT oficial para QueAI. Voz a texto de alta precisión basado en Whisper. Ejecución local en CPU, soporte para Inglés/Español y transcripción rápida de audio en tiempo real.",
+      "description_en": "Official STT module for QueAI. High-accuracy speech-to-text powered by Whisper. Runs locally on CPU, English/Spanish support and fast real-time audio transcription.",
       "version": "1.0.0",
       "author": "Juana Iris Perez && Alejandro Fonseca Cuza",
       "git_url": "https://github.com/queai-project/QueAI-STT-CPU-LOCAL-MS.git",
@@ -25,6 +28,7 @@
       "id": "f91b3c6e-2a44-4d8b-8f0c-6a2d9e5b7c31",
       "name": "OCR Local CPU",
       "description": "Módulo OCR oficial para QueAI. Imagen/PDF a texto de alta fidelidad basado en Tesseract. Ejecución local en CPU.",
+      "description_en": "Official OCR module for QueAI. High-fidelity image/PDF to text powered by Tesseract. Runs locally on CPU.",
       "version": "1.1.4",
       "author": "Juana Iris Perez && Alejandro Fonseca Cuza",
       "git_url": "https://github.com/queai-project/QueAI-OCR-CPU-LOCAL-MS.git",
