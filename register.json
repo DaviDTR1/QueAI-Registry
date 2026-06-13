@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04",
+  "last_updated": "2026-06-13",
   "schema_version": 2,
   "plugins": [
     {
@@ -34,6 +34,17 @@
       "git_url": "https://github.com/queai-project/QueAI-OCR-CPU-LOCAL-MS.git",
       "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-OCR-CPU-LOCAL-MS/main/assets/logo.png",
       "category": "OCR"
+    },
+    {
+      "id": "6aff0775-7707-46eb-b886-1f60e928a990",
+      "name": "Chat Cloud (OpenAI)",
+      "description": "Plugin oficial de chat para QueAI. Proxy ligero a la API de OpenAI con conversación multi-turno, streaming token a token vía SSE y system prompt configurable desde el .env. Requiere una API key propia.",
+      "description_en": "Official chat plugin for QueAI. Lightweight proxy to the OpenAI API with multi-turn conversation, token-by-token SSE streaming and a system prompt configurable from .env. Brings your own API key.",
+      "version": "1.0.0",
+      "author": "Juana Iris Perez && Alejandro Fonseca Cuza",
+      "git_url": "https://github.com/queai-project/QueAI-CHAT-CLOUD-OPENAI-MS.git",
+      "logo_url": "https://raw.githubusercontent.com/queai-project/QueAI-CHAT-CLOUD-OPENAI-MS/main/assets/logo.png",
+      "category": "Chat"
     }
   ]
 }
